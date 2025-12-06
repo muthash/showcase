@@ -24,11 +24,7 @@ By 10.30am ET, you should have submitted a 2-3 min video to describe your activi
 
 ### Deliverable 3: 
 
-By 11.15am ET, you should have submitted a 2-3 min video to show your results and next steps.
-
-### Deliverable 4:
-
-At 11.30am ET, you should have pushed your code to your own GitHub and sent the link to Ed.
+By 11.30am ET, you should have submitted a 2-3 min video to show your results and suggest how this could be further developed, along with a link to your repo.
 
 ## How will this be evaluated
 

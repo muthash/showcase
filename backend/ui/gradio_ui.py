@@ -1,5 +1,5 @@
 import gradio as gr
-from mcp_client import company_support_agent
+from backend.agent.mcp_client import company_support_agent
 
 
 def build_ui():

@@ -1,3 +1,0 @@
-dotenv
-gradio
-openai-agents
